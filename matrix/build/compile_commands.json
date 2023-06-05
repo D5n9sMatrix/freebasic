@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/denis/Projects/freebasic/matrix/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/freebasic.dir/freebasic.cpp.o -c /home/denis/Projects/freebasic/matrix/freebasic.cpp",
+  "file": "/home/denis/Projects/freebasic/matrix/freebasic.cpp"
+}
+]

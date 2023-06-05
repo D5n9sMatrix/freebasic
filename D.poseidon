@@ -1,0 +1,26 @@
+﻿[Project]
+ProjectName=freebasic
+Type=1
+MainFile=
+PassOneFile=
+TargetName=freebasic
+FocusOn=
+CompilerArgs=dub
+CompilerOption=dub run
+Comment=
+CompilerPath=Z:/home/denis/app/poseidond/dmd2/windows/bin/dub.exe
+[IncludeDirs]
+[LibDirs]
+[Sources]
+name=compiler/fbc/fbc.d
+name=compiler/fbc/dbc.d
+name=compiler/fbc/dmc.d
+name=compiler/object/arms.d
+name=compiler/program/app.d
+name=compiler/output/pattern.d
+name=compiler/upper/upload.d
+name=compiler/down/download.d
+[Includes]
+[Others]
+[Misc]
+[Focus]

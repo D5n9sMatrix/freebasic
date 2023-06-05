@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/dmc
+dmc.so
+dmc.dylib
+dmc.dll
+dmc.a
+dmc.lib
+dmc-test-*
+*.exe
+*.o
+*.obj
+*.lst

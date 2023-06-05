@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"D5n9sMatrix"
+	],
+	"copyright": "Copyright 2022",
+	"description": "compiler freebasic ",
+	"license": "MIT",
+	"name": "dmc"
+}

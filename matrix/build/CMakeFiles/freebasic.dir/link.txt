@@ -1,0 +1,2 @@
+/usr/bin/ar qc libfreebasic.a CMakeFiles/freebasic.dir/freebasic.cpp.o
+/usr/bin/ranlib libfreebasic.a
